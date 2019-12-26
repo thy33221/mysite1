@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+
+
 from flask import Blueprint, url_for, render_template, request, flash, redirect
 
 # 创建一个蓝图对象
